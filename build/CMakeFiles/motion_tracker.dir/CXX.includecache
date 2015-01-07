@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ycb13/Desktop/Tracker/src/tracker.cpp
+tracker.h
+/home/ycb13/Desktop/Tracker/src/tracker.h
+
+/home/ycb13/Desktop/Tracker/src/tracker.h
+opencv2/opencv.hpp
+-
+opencv2/nonfree/nonfree.hpp
+-
+vector
+-
+

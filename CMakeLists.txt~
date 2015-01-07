@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8 FATAL_ERROR)
+project(motion_tracker)
+# Activate this for use with a debugger
+# SET(CMAKE_BUILD_TYPE RelWithDebInfo )
+
+add_subdirectory(src)
+
